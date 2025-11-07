@@ -2,7 +2,7 @@
 
 I’m a graduate student in Computer Science at Northeastern University, Silicon Valley.
 
-Driven by curiosity and a knack for seeing patterns where others see noise, I specialize in turning raw data into useful solutions—fast. I thrive on building machine learning models and real-world automation tools, and bring hands-on experience with projects like AI-powered document processing and smart chatbots.
+Driven by curiosity and a knack for seeing patterns where others see noise, I specialize in turning raw data into useful solutions-fast. I thrive on building machine learning models and real-world automation tools, and bring hands-on experience with projects like AI-powered document processing and smart chatbots.
 
 My sweet spot is blending data science and backend skills with a habit of asking, “How can we make this smarter and more efficient?”
 
