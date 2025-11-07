@@ -32,4 +32,4 @@ My sweet spot is blending data science and backend skills with a habit of asking
 ## 🤝 Let’s Connect
 
 **LinkedIn:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineethsakhamuru/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-sakhamuru/)
